@@ -18,15 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBorrego&layout=compact&theme=dark" />
-</div>
-
 ---
 
 ### 🧠 Currently Learning
