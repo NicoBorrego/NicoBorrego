@@ -4,12 +4,6 @@
 <h1 align="center">Hi there 👋, I'm Nico Borrego</h1>
 <h3 align="center">Systems Operator & Software Engineering Student</h3>
 
-<p align="center">
-  🚀 Passionate about automation, backend development and system design.<br>
-  🧠 Always learning, building, and experimenting with new tech.<br>
-  🎯 Focused on clean code, scalable systems, and elegant solutions.
-</p>
-
 ---
 
 ### 🧰 Tech Stack
