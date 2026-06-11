@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
@@ -20,15 +20,15 @@
 </p>
 ---
 
-### 🧠 Currently Learning
+### Currently Learning
 
-- 🔁 Clean architecture & DDD in backend
-- ☸️ Kubernetes & container orchestration
-- 📜 Advanced scripting in Bash/Python
+- Clean architecture & DDD in backend
+- Kubernetes & container orchestration
+- Advanced scripting in Bash/Python
 
 ---
 
-### 📬 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-borrego-gonz%C3%A1lez-7b49251b2/" target="_blank">
